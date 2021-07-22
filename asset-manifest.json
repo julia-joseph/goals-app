@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goals-app/static/css/main.ea1455b2.chunk.css",
+    "main.css": "/goals-app/static/css/main.2e7919c8.chunk.css",
     "main.js": "/goals-app/static/js/main.25e0032a.chunk.js",
     "main.js.map": "/goals-app/static/js/main.25e0032a.chunk.js.map",
     "runtime-main.js": "/goals-app/static/js/runtime-main.a7797fd5.js",
@@ -10,13 +10,13 @@
     "static/js/3.640c57eb.chunk.js": "/goals-app/static/js/3.640c57eb.chunk.js",
     "static/js/3.640c57eb.chunk.js.map": "/goals-app/static/js/3.640c57eb.chunk.js.map",
     "index.html": "/goals-app/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/goals-app/static/css/main.ea1455b2.chunk.css.map",
+    "static/css/main.2e7919c8.chunk.css.map": "/goals-app/static/css/main.2e7919c8.chunk.css.map",
     "static/js/2.ce8fafac.chunk.js.LICENSE.txt": "/goals-app/static/js/2.ce8fafac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a7797fd5.js",
     "static/js/2.ce8fafac.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
+    "static/css/main.2e7919c8.chunk.css",
     "static/js/main.25e0032a.chunk.js"
   ]
 }
